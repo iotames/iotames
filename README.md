@@ -49,5 +49,4 @@
 
 ------------
 
-<p align="center"><img src="https://github.com/iotames/iotames/workflows/README%20build/badge.svg" /> 
 <img alt="Stars" src="https://img.shields.io/github/stars/iotames/iotames?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/iotames/iotames?style=flat-square&labelColor=343b41"/></p>
