@@ -46,7 +46,3 @@
 | -------- | -------- | -------- |
 | <a href="https://github.com/iotames/miniutils"><b>miniutils</b></a>| <img alt="Stars" src="https://img.shields.io/github/stars/iotames/miniutils?style=flat-square&labelColor=343b41"/> | <img alt="Forks" src="https://img.shields.io/github/forks/iotames/miniutils?style=flat-square&labelColor=343b41"/> |
 | <a href="https://github.com/iotames/lemocoder"><b>lemocoder</b></a> | <img alt="Stars" src="https://img.shields.io/github/stars/iotames/lemocoder?style=flat-square&labelColor=343b41"/> | <img alt="Forks" src="https://img.shields.io/github/forks/iotames/lemocoder?style=flat-square&labelColor=343b41"/> |
-
-------------
-
-<img alt="Stars" src="https://img.shields.io/github/stars/iotames/iotames?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/iotames/iotames?style=flat-square&labelColor=343b41"/></p>
