@@ -42,7 +42,8 @@
 
 ## Open source projects
 
-| 🎁 Projects  |   ⭐ Stars   |   📚 Forks   |
-| -------- | -------- | -------- |
-| <a href="https://github.com/iotames/miniutils"><b>miniutils</b></a>| <img alt="Stars" src="https://img.shields.io/github/stars/iotames/miniutils?style=flat-square&labelColor=343b41"/> | <img alt="Forks" src="https://img.shields.io/github/forks/iotames/miniutils?style=flat-square&labelColor=343b41"/> |
-| <a href="https://github.com/iotames/lemocoder"><b>lemocoder</b></a> | <img alt="Stars" src="https://img.shields.io/github/stars/iotames/lemocoder?style=flat-square&labelColor=343b41"/> | <img alt="Forks" src="https://img.shields.io/github/forks/iotames/lemocoder?style=flat-square&labelColor=343b41"/> |
+| 🎁 Projects  |  📃Description | ⭐ Stars   |   📚 Forks   |
+| -------- | --------  | ----------- | -------- |
+| <a href="https://github.com/iotames/easyim"><b>EasyIM</b></a>| 简单易用的即时通讯服务器 | [<img alt="Stars" src="https://img.shields.io/github/stars/iotames/easyim?style=flat-square&labelColor=343b41"/>](https://github.com/iotames/easyim) | [<img alt="Forks" src="https://img.shields.io/github/forks/iotames/easyim?style=flat-square&labelColor=343b41"/>](https://github.com/iotames/easyim) |
+| <a href="https://github.com/iotames/miniutils"><b>miniutils</b></a>| 日常开发常用工具库 | [<img alt="Stars" src="https://img.shields.io/github/stars/iotames/miniutils?style=flat-square&labelColor=343b41"/>](https://github.com/iotames/miniutils) | [<img alt="Forks" src="https://img.shields.io/github/forks/iotames/miniutils?style=flat-square&labelColor=343b41"/>](https://github.com/iotames/miniutils) |
+| <a href="https://github.com/iotames/lemocoder"><b>lemocoder</b></a> | 自动生成Web后台代码 | [<img alt="Stars" src="https://img.shields.io/github/stars/iotames/lemocoder?style=flat-square&labelColor=343b41"/>](https://github.com/iotames/lemocoder) | [<img alt="Forks" src="https://img.shields.io/github/forks/iotames/lemocoder?style=flat-square&labelColor=343b41"/>](https://github.com/iotames/lemocoder) |
